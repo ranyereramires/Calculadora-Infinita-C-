@@ -1,0 +1,15 @@
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\bin\Debug\net6.0\CalculadoraInfinita.exe
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\bin\Debug\net6.0\CalculadoraInfinita.deps.json
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\bin\Debug\net6.0\CalculadoraInfinita.runtimeconfig.json
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\bin\Debug\net6.0\CalculadoraInfinita.dll
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\bin\Debug\net6.0\CalculadoraInfinita.pdb
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\obj\Debug\net6.0\CalculadoraInfinita.csproj.AssemblyReference.cache
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\obj\Debug\net6.0\CalculadoraInfinita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\obj\Debug\net6.0\CalculadoraInfinita.AssemblyInfoInputs.cache
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\obj\Debug\net6.0\CalculadoraInfinita.AssemblyInfo.cs
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\obj\Debug\net6.0\CalculadoraInfinita.csproj.CoreCompileInputs.cache
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\obj\Debug\net6.0\CalculadoraInfinita.dll
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\obj\Debug\net6.0\refint\CalculadoraInfinita.dll
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\obj\Debug\net6.0\CalculadoraInfinita.pdb
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\obj\Debug\net6.0\CalculadoraInfinita.genruntimeconfig.cache
+C:\Users\Ranyere Ramires\Desktop\CalculadoraInfinita\obj\Debug\net6.0\ref\CalculadoraInfinita.dll
